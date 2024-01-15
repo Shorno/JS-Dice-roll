@@ -1,0 +1,25 @@
+#header{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+#roller{
+    display: flex;
+    justify-content: center;
+}
+
+#rollBtn{
+    padding: 10px 20px;
+    margin: 10px;
+    font-weight: bold;
+    background-color: hotpink;
+    cursor: pointer;
+    border: pink;
+    border-radius: 4px;
+    color: white;
+
+}
+#label{
+    font-size: 2rem;
+    font-weight: bolder;
+}
